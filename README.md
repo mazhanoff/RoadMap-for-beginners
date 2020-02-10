@@ -9,3 +9,4 @@ https://github.com/kamranahmedse/developer-roadmap
 
 
 # Шаги
+1. CS50
