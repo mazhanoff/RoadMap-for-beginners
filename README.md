@@ -2,6 +2,7 @@
 
 # Полезные материалы
 https://github.com/kamranahmedse/developer-roadmap
+https://tproger.ru/curriculum/intro-to-frontend-development/
 
 ## Курсы
 1. https://stepik.org/course/38218/promo
